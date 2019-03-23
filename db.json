@@ -1,5 +1,8 @@
-[{
-		"name": "Fattahul Akbar",
+
+{
+  "contact": [
+    {
+		"name": "Tom Hardy",
 		"image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
 		"phone": "(541) 754-3010"
 	},
@@ -88,4 +91,12 @@
 		"image": "https://api.androidhive.info/json/images/robert.jpg",
 		"phone": "(444) 444-4444"
 	}
-]
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
