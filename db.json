@@ -2,94 +2,99 @@
 {
   "contact": [
     {
+		"name": "Asep Rizky Ramadhan",
+		"image": "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg",
+		"phone": "08XX-XXXX-XXXX"
+	},
+	{
+		"name": "Fajar Fitrah Rusdianto",
+		"image": "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg",
+		"phone": "08XX-XXXX-XXXX"
+	},
+	{
+		"name": "Putri Asysura",
+		"image": "https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914_1280.png",
+		"phone": "08XX-XXXX-XXXX"
+	},
+	{
+		"name": "Dian Maulida",
+		"image": "https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914_1280.png",
+		"phone": "08XX-XXXX-XXXX"
+	},
+	{
+		"name": "Adella Rinesa",
+		"image": "https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914_1280.png",
+		"phone": "08XX-XXXX-XXXX"
+	},
+	{
+		"name": "Rheza Thresya",
+		"image": "https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914_1280.png",
+		"phone": "08XX-XXXX-XXXX"
+	},
+	{
+		"name": "Bagas Indra",
+		"image": "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg",
+		"phone": "08XX-XXXX-XXXX"
+	},
+	{
 		"name": "Fattahul Akbar",
 		"image": "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg",
-		"phone": "(541) 754-3010"
+		"phone": "08XX-XXXX-XXXX"
 	},
 	{
-		"name": "Johnny Depp",
-		"image": "https://api.androidhive.info/json/images/johnny.jpg",
-		"phone": "(452) 839-1210"
+		"name": "Irjalus Sabri",
+		"image": "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg",
+		"phone": "08XX-XXXX-XXXX"
 	},
 	{
-		"name": "Tom Cruise",
-		"image": "https://api.androidhive.info/json/images/tom_cruise.jpg",
-		"phone": "(541) 453-2311"
+		"name": "Gina Qonita",
+		"image": "https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914_1280.png",
+		"phone": "08XX-XXXX-XXXX"
 	},
 	{
-		"name": "Keira Knightley",
-		"image": "https://api.androidhive.info/json/images/keira.jpg",
-		"phone": "(535) 324-4334"
+		"name": "Sari Rhamadani",
+		"image": "https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914_1280.png",
+		"phone": "08XX-XXXX-XXXX"
 	},
 	{
-		"name": "Robert De Niro",
-		"image": "https://api.androidhive.info/json/images/robert_de.jpg",
-		"phone": "(767) 544-8867"
+		"name": "Yogi Hidayat",
+		"image": "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg",
+		"phone": "08XX-XXXX-XXXX"
 	},
 	{
-		"name": "Leonardo DiCaprio",
-		"image": "https://api.androidhive.info/json/images/leonardo.jpg",
-		"phone": "(564) 333-2452"
+		"name": "Mutasim",
+		"image": "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg",
+		"phone": "08XX-XXXX-XXXX"
 	},
 	{
-		"name": "Will Smith",
-		"image": "https://api.androidhive.info/json/images/will.jpg",
-		"phone": "(541) 879-3453"
+		"name": "Alfiona Lhathifa",
+		"image": "https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914_1280.png",
+		"phone": "08XX-XXXX-XXXX"
 	},
 	{
-		"name": "Russell Crowe",
-		"image": "https://api.androidhive.info/json/images/russell.jpg",
-		"phone": "(234) 234-3321"
+		"name": "Zuyandri Hidayat",
+		"image": "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg",
+		"phone": "08XX-XXXX-XXXX"
 	},
 	{
-		"name": "Brad Pitt",
-		"image": "https://api.androidhive.info/json/images/brad.jpg",
-		"phone": "(567) 754-8945"
+		"name": "Sari Marta",
+		"image": "https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914_1280.png",
+		"phone": "08XX-XXXX-XXXX"
 	},
 	{
-		"name": "Angelina Jolie",
-		"image": "https://api.androidhive.info/json/images/angelina.jpg",
-		"phone": "(324) 754-5433"
+		"name": "Annisa Putri",
+		"image": "https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914_1280.png",
+		"phone": "08XX-XXXX-XXXX"
 	},
 	{
-		"name": "Kate Winslet",
-		"image": "https://api.androidhive.info/json/images/kate.jpg",
-		"phone": "(788) 343-3433"
+		"name": "Muhammad Fuadi Azhari",
+		"image": "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg",
+		"phone": "08XX-XXXX-XXXX"
 	},
 	{
-		"name": "Christian Bale",
-		"image": "https://api.androidhive.info/json/images/christian.jpg",
-		"phone": "(865) 755-3555"
-	},
-	{
-		"name": "Morgan Freeman",
-		"image": "https://api.androidhive.info/json/images/morgan.jpg",
-		"phone": "(445) 776-9076"
-	},
-	{
-		"name": "Hugh Jackman",
-		"image": "https://api.androidhive.info/json/images/hugh.jpg",
-		"phone": "(544) 454-4544"
-	},
-	{
-		"name": "Keanu Reeves",
-		"image": "https://api.androidhive.info/json/images/keanu.jpg",
-		"phone": "(454) 455-5445"
-	},
-	{
-		"name": "Tom Hanks",
-		"image": "https://api.androidhive.info/json/images/tom.jpg",
-		"phone": "(541) 454-4544"
-	},
-	{
-		"name": "Scarlett Johansson",
-		"image": "https://api.androidhive.info/json/images/scarlett.jpg",
-		"phone": "(545) 454-2567"
-	},
-	{
-		"name": "Robert Downey Jr.",
-		"image": "https://api.androidhive.info/json/images/robert.jpg",
-		"phone": "(444) 444-4444"
+		"name": "Yoki Handika",
+		"image": "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg",
+		"phone": "08XX-XXXX-XXXX"
 	}
   ],
   "comments": [
