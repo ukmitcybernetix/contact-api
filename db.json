@@ -117,7 +117,12 @@
 	}
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "name": "Dunkirk", "poster": "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg", "duration": "1hr 46min",
+   "rating": 4.6,
+    "released": true,
+    "genre": "Action",
+    "price": "₹200",
+    "director": "Christopher Nolan"},
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
