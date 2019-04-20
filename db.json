@@ -117,12 +117,12 @@
 	}
   ],
   "comments": [
-    { "id": 1, "name": "Dunkirk", "poster": "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg", "duration": "1hr 46min",
-   "rating": 4.6,
+    { "id": 1, "name": "Fattahul Akbar", "poster": "https://avatars1.githubusercontent.com/u/28686631?s=400&u=741f93cba3a241134aefc614b3e90f17fb2e5c36&v=4", "duration": "CX 09-13",
+   "rating": "Teknik Informatika",
     "released": true,
-    "genre": "Action",
-    "price": "₹200",
-    "director": "Christopher Nolan"},
+    "genre": "Programming",
+    "price": "Fullstack Developer",
+    "director": "Kabid Litbang"},
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
