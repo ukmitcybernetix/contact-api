@@ -129,6 +129,12 @@
     "genre": "Networking",
     "price": "DevOps",
     "director": "Ketua Umum"},
+	  { "id": 2, "name": "Bagas Indra", "poster": "https://avatars1.githubusercontent.com/u/28686631?s=400&u=741f93cba3a241134aefc614b3e90f17fb2e5c36&v=4", "duration": "CX 09-13",
+   "rating": 4.5,
+    "released": true,
+    "genre": "Networking",
+    "price": "DevOps",
+    "director": "Ketua Umum"},
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
